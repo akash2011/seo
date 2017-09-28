@@ -1,1 +1,1 @@
-# seo
+/* ======= seo best practices collectionns =========== */
